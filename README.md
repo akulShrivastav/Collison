@@ -1,1 +1,2 @@
 # Collison
+generic isTouching()
